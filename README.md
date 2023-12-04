@@ -7,3 +7,6 @@ If you want to try it:
 - install requirements ```pip install -r requirements.txt```
 - run development server ```python manage.py runserver```
 - enjoy =)
+
+#### PS 
+Don't forget to generate .env file with DJANGO_SECRET
